@@ -2,19 +2,8 @@
 *.class
 /target/
 /build/
-.gradle/
-/.idea/
+.out/
+.idea/
 *.iml
-
-### C
-*.o
-*.obj
-*.exe
-a.out
-
-### SO/Editor
-.DS_Store
-Thumbs.db
-
-### JavaFX SDK (não versionar)
+.vscode/
 javafx-sdk-*/
