@@ -1,0 +1,20 @@
+### Java
+*.class
+/target/
+/build/
+.gradle/
+/.idea/
+*.iml
+
+### C
+*.o
+*.obj
+*.exe
+a.out
+
+### SO/Editor
+.DS_Store
+Thumbs.db
+
+### JavaFX SDK (não versionar)
+javafx-sdk-*/
